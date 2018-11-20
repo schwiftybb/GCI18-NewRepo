@@ -1,5 +1,5 @@
-# My Name  
-My name is Harsh
+# My Description
+My name is Harsh. CS-GO global elite. 
 
 # My Skills  
-None
+Professional csgo player
